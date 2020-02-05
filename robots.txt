@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iuloohohno.ct0r.com/sitemap.xml
